@@ -24,7 +24,7 @@ const products = [
         name: 'Top Cake',
         description: '24 عەدەد',
         price: 4750,
-        image: 'images/IMG_9999.jpeg',
+        image: 'IMG_9999.jpeg',
         category: 'cake',
         badge: 'پڕفرۆشترین'
     },
@@ -33,7 +33,7 @@ const products = [
         name: 'Rozy Cake',
         description: '24 عەدەد',
         price: 4500,
-        image: 'images/IMG_0003.jpeg',
+        image: 'IMG_0003.jpeg',
         category: 'cake'
     },
     {
@@ -41,7 +41,7 @@ const products = [
         name: 'کێک تایگەر',
         description: '12 عەدەد',
         price: 2500,
-        image: 'images/IMG_0002.jpeg',
+        image: 'IMG_0002.jpeg',
         category: 'cake'
     },
     {
@@ -49,7 +49,7 @@ const products = [
         name: 'موفید پڵەس',
         description: '24 عەدەد',
         price: 4750,
-        image: 'images/IMG_0009.jpeg',
+        image: 'IMG_0009.jpeg',
         category: 'cake'
     },
     {
@@ -57,7 +57,7 @@ const products = [
         name: 'کێکی مهیار',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_0017.jpeg',
+        image: 'IMG_0017.jpeg',
         category: 'cake'
     },
     {
@@ -65,7 +65,7 @@ const products = [
         name: 'کێکی ڕوس',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_0018.jpeg',
+        image: 'IMG_0018.jpeg',
         category: 'cake'
     },
     {
@@ -73,7 +73,7 @@ const products = [
         name: 'کێکی موفید',
         description: '24 عەدەد',
         price: 4500,
-        image: 'images/IMG_0023.jpeg',
+        image: 'IMG_0023.jpeg',
         category: 'cake'
     },
     
@@ -84,7 +84,7 @@ const products = [
         name: 'Chilka Dwany',
         description: '60 عەدەد',
         price: 5000,
-        image: 'images/IMG_0001.jpeg',
+        image: 'IMG_0001.jpeg',
         category: 'biscuit',
         badge: 'پڕفرۆشترین'
     },
@@ -93,7 +93,7 @@ const products = [
         name: 'چەمەکی عایلە',
         description: '12 عەدەد',
         price: 10000,
-        image: 'images/IMG_0004.jpeg',
+        image: 'IMG_0004.jpeg',
         category: 'biscuit'
     },
     {
@@ -101,7 +101,7 @@ const products = [
         name: 'چەمەکی عایلە',
         description: '12 عەدەد',
         price: 10000,
-        image: 'images/IMG_0006.jpeg',
+        image: 'IMG_0006.jpeg',
         category: 'biscuit'
     },
     {
@@ -109,7 +109,7 @@ const products = [
         name: 'PEITBISS عایلەی',
         description: '12 عەدەد',
         price: 8500,
-        image: 'images/IMG_0008.jpeg',
+        image: 'IMG_0008.jpeg',
         category: 'biscuit'
     },
     {
@@ -117,7 +117,7 @@ const products = [
         name: 'پیتیپور عایلە',
         description: '12 عەدەد',
         price: 10000,
-        image: 'images/IMG_0013.jpeg',
+        image: 'IMG_0013.jpeg',
         category: 'biscuit'
     },
     {
@@ -125,7 +125,7 @@ const products = [
         name: 'کەزی لامیان',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_0020.jpeg',
+        image: 'IMG_0020.jpeg',
         category: 'biscuit'
     },
     {
@@ -133,7 +133,7 @@ const products = [
         name: 'کەزی لامیان',
         description: '12 عەدەد',
         price: 9500,
-        image: 'images/IMG_0024.jpeg',
+        image: 'IMG_0024.jpeg',
         category: 'biscuit'
     },
     {
@@ -141,7 +141,7 @@ const products = [
         name: 'پیتیپولی عایلی',
         description: '12 عەدەد',
         price: 10000,
-        image: 'images/IMG_0027.jpeg',
+        image: 'IMG_0027.jpeg',
         category: 'biscuit'
     },
     {
@@ -149,7 +149,7 @@ const products = [
         name: 'وایفەر ئەزرا',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_0029.jpeg',
+        image: 'IMG_0029.jpeg',
         category: 'biscuit'
     },
     {
@@ -157,7 +157,7 @@ const products = [
         name: 'وایفەر ئەزرا',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_0030.jpeg',
+        image: 'IMG_0030.jpeg',
         category: 'biscuit'
     },
 
@@ -193,7 +193,7 @@ const products = [
         name: 'تۆرتێلا شین',
         description: '60 عەدەد',
         price: 9500,
-        image: 'images/IMG_0011.jpeg',
+        image: 'IMG_0011.jpeg',
         category: 'chips'
     },
     {
@@ -201,7 +201,7 @@ const products = [
         name: 'بوشاری دوانی',
         description: '48 عەدەد',
         price: 4250,
-        image: 'images/IMG_0022.jpeg',
+        image: 'IMG_0022.jpeg',
         category: 'chips'
     },
     {
@@ -209,7 +209,7 @@ const products = [
         name: 'زەڕاتی پەرداخ',
         description: '40 عەدەد',
         price: 8000,
-        image: 'images/IMG_0028.jpeg',
+        image: ' IMG_0028.jpeg',
         category: 'chips'
     },
 
@@ -219,7 +219,7 @@ const products = [
         name: 'نوقڵی ئاناتا',
         description: '24 عەدەد',
         price: 4750,
-        image: 'images/IMG_0005.jpeg',
+        image: 'IMG_0005.jpeg',
         category: 'snuff'
     },
     {
@@ -227,7 +227,7 @@ const products = [
         name: 'نەستەلە',
         description: '24 عەدەد',
         price: 5250,
-        image: 'images/IMG_0007.jpeg',
+        image: 'IMG_0007.jpeg',
         category: 'snuff',
         badge: 'پڕفرۆشترین'
     },
@@ -236,7 +236,7 @@ const products = [
         name: 'سەمیری',
         description: '30 عەدەد',
         price: 3000,
-        image: 'images/IMG_00010.jpeg',
+        image: 'IMG_00010.jpeg',
         category: 'snuff'
     },
     {
@@ -244,7 +244,7 @@ const products = [
         name: 'قاوەی زۆزۆ',
         description: '24 عەدەد',
         price: 3000,
-        image: 'images/IMG_00014.jpeg',
+        image: 'IMG_00014.jpeg',
         category: 'snuff'
     },
     {
@@ -252,7 +252,7 @@ const products = [
         name: 'تەمەرندی',
         description: '12 عەدەد',
         price: 2500,
-        image: 'images/IMG_00015.jpeg',
+        image: 'IMG_00015.jpeg',
         category: 'snuff'
     },
     {
@@ -260,7 +260,7 @@ const products = [
         name: 'تەمەرندی لول',
         description: '24 عەدەد',
         price: 5000,
-        image: 'images/IMG_00016.jpeg',
+        image: 'IMG_00016.jpeg',
         category: 'snuff'
     },
     {
@@ -268,7 +268,7 @@ const products = [
         name: 'بنێشتی یوبی',
         description: '100 عەدەد',
         price: 2500,
-        image: 'images/IMG_00019.jpeg',
+        image: 'IMG_00019.jpeg',
         category: 'snuff'
     }
 ];
